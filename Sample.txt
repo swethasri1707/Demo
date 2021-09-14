@@ -8,4 +8,9 @@ hello main
 =======
 
 this is branch1
+<<<<<<< HEAD
 >>>>>>> aff892e8c7c925fabcf9c81dc5b0c78d27a402ff
+=======
+
+branch 1 again
+>>>>>>> branch1
